@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(226, 226, 226);
+}
+
+#bu {
+    margin-left:60px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-right: 5px;
+}
+
+#red {
+    height: 200px;
+    width: 200px;
+}
+
+#for {
+    margin-left: 75px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    
+}
+
+#black {
+    height: 200px;
+    width: 200px;
+    margin-left: 100px;
+}
+
+#bl {
+    margin-left: 390px;
+}
